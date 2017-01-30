@@ -9,7 +9,8 @@ We win Top5.
 
 Our codes are mainly written by R and Python.
 
-We use R to (1) fetch twitter history and real-time streaming data;  
+We use R to  
+(1) fetch twitter history and real-time streaming data;  
 (2) preprocess fetched raw data from 4 main social media platforms (including Yelp, Google, Facebook and Twitter);   
 (3) do Latent Dirichlet Allocation (LDA) for extracted document term matrix;   
 (4) Word count and SVM based sentiment prediction.  
