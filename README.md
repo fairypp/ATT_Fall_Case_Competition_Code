@@ -3,7 +3,10 @@ This folder includes codes and part of sample data used for Big Data AT&T Fall C
 
 Our codes are mainly written by R and Python.
 
-We use R to (1) fetch twitter history and real-time streaming data; (2) preprocess fetched raw data from 4 main social media platforms (including Yelp, Google, Facebook and Twitter); (3) do Latent Dirichlet Allocation (LDA) for extracted document term matrix; (4) Word count and SVM based sentiment prediction.
+We use R to (1) fetch twitter history and real-time streaming data;  
+(2) preprocess fetched raw data from 4 main social media platforms (including Yelp, Google, Facebook and Twitter);   
+(3) do Latent Dirichlet Allocation (LDA) for extracted document term matrix;   
+(4) Word count and SVM based sentiment prediction.  
 
 There are 6 R code files included under the folder “R Code”:  
 1)	ATT_LDA.R is used to extract customer service topics by LDA method.  
