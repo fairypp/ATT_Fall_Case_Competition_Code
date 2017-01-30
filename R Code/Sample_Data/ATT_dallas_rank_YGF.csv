@@ -1,0 +1,47 @@
+id,store_id,name,zipcode,address,latitude,longitude,Yelp,Google,Facebook
+1,75002-a1,AT&T ,75002,"190 E Stacy Road Suite 214,Allen, TX",33.128358,-96.659222,3,2.9,3.1
+2,75007-aa1,AT&T Authorized Retailer,75007,"104, 1855 Frankford Rd E, Carrollton, TX",33.000718,-96.887044,,3.7,
+3,75013-aa1,AT&T Authorized Retailer,75013,"906 W McDermott Dr #320, Allen, TX ",33.102493,-96.683794,3,3.7,
+4,75024-a1,AT&T,75024,"8700 Preston Rd #117, Plano, TX ",33.097463,-96.80153,1,3.3,3.3
+5,75028-a1,AT&T ,75028,"6161 Long Prairie Rd Suite 100, Flower Mound, TX",33.069395,-97.083231,2,3.4,2.5
+6,75034-a1,AT&T,75034,"3551 Preston Rd, Frisco, TX",33.108472,-96.806882,2.5,3,3.2
+7,75034-a2,AT&T ,75034,"12021 Dallas Pkwy #500, Frisco, TX",33.177889,-96.841062,2.5,2.6,3.3
+8,75034-aa1,AT&T Authorized Retailer,75034,"12244 FM423 #400, Frisco, TX",33.180015,-96.886471,,3.3,
+9,75034-a3,AT&T ,75034,"2601 Preston Rd #2238, Frisco, TX",33.098593,-96.811778,2,3.7,4.2
+10,75035-a1,AT&T,75035,"6111 Custer Rd #120, Frisco, TX ",33.127611,-96.733963,1,3,
+11,75040-a1,AT&T ,75040,"5345 N Garland Ave Ste 320, Garland, TX",32.964503,-96.64444,1.5,3.4,2.5
+12,75041-a1,AT&T,75041,"901 NW Hwy, Garland, TX",32.861792,-96.642515,1.5,2.9,4.8
+13,75044-aa1,AT&T Authorized Retailer,75044,"3112 N Jupiter Rd Ste 301, Garland, TX ",32.945982,-96.680784,2,4.2,5
+14,75056-a1,AT&T ,75056,"4770 State Highway 121,Lewisville, TX",33.065981,-96.885961,2.5,3,4
+15,75057-aa1,AT&T Authorized Retailer,75057,"729 Hebron Pkwy, Lewisville, TX ",33.010687,-96.968757,,3.2,
+16,75062-a1,AT&T ,75062,"2701 N Belt Line Rd, Irving, TX",32.843686,-96.992873,2,2.5,3.4
+17,75063-a1,AT&T ,75063,"7800 N. Macarthur Boulevard, Suite 150, Irving, TX ",32.913069,-96.957978,2,3.3,3.6
+18,75067-a1,AT&T ,75067,"2397 S Stemmons Fwy, Lewisville, TX ",33.006656,-96.972833,4,3.1,4
+19,75070-a1,AT&T ,75070,"1681 N Central Expwy Suite 450, McKinney, TX",33.214188,-96.63808,4,3.3,1.6
+20,75071-aa1,AT&T Authorized Retailer,75071,"116 S Custer Rd, McKinney, TX",33.202886,-96.733627,,3,
+21,75075-a1,AT&T ,75075,"701 N Central Expy, Plano, TX ",33.009444,-96.708816,2,3.4,3.4
+22,75080-aa1,AT&T Authorized Retailer,75080,"2160 N Coit Rd, Ste 141, Richardson, TX ",32.98034,-96.767464,,4.4,5
+23,75093-a1,AT&T ,75093,"3300 Dallas Pkwy #100, Plano, TX",33.046302,-96.828519,2,2.8,1.5
+24,75098-a1,AT&T ,75098,"3460 West Fm 544 Suite 500, Wylie, TX",33.01074,-96.593145,2,2.8,3.7
+25,75150-a1,AT&T ,75150,"1645 N Town E Blvd #554, Mesquite, TX",32.811273,-96.622971,1.5,3.8,2.8
+26,75202-h1,AT&T ,75202,"208 S Akard St #110, Dallas, TX",32.779597,-96.79877,1.5,1.3,2.9
+27,75206-aa1,AT&T Authorized Retailer,75206,"5521 Greenville Ave #101, Dallas, TX ",32.853686,-96.769827,,3.3,
+28,75206-aa2,AT&T Authorized Retailer,75206,"5618 E Mockingbird Ln, Dallas, TX",32.836282,-96.771151,5,3.8,
+29,75209-aa1,AT&T Authorized Retailer,75209,"5567 W Lovers Ln, Dallas, TX",32.851531,-96.817444,,1,
+30,75209-a1,AT&T ,75209,"5616 Lemmon Ave, Dallas, TX",32.829295,-96.825047,2,3,4.2
+31,75217-aa1,AT&T Authorized Retailer,75217,"1530 S Buckner Blvd, Dallas, TX",32.739003,-96.682445,,3,
+32,75218-a1,AT&T ,75218,"1152 North Buckner Blvd, Ste 114-A, Dallas, TX ",32.835063,-96.701762,3.5,2.5,3
+33,75219-a1,AT&T ,75219,"3329 Oak Lawn Avenue, Dallas, TX ",32.811134,-96.807044,3,,3.5
+34,75225-aa1,AT&T Authorized Retailer,75225,"5960 W Northwest Hwy, Dallas, TX ",32.865271,-96.805861,1,3.3,
+35,75225-a1,AT&T ,75225,"8687 N Central Expressway, Suite 2340, Dallas, TX ",32.868486,-96.773531,2.5,2.7,4.2
+36,75229-aa1,AT&T Authorized Retailer,75229,"11722 Marsh Lane, #A3, Dallas, TX",32.908484,-96.855627,1,3.1,
+37,75230-a1,AT&T ,75230,"5959 Royal Lane, Dallas, TX ",32.895209,-96.804553,2,2.9,2.8
+38,75231-a1,AT&T ,75231,"9100 N Central Expressway, Suite 105, Dallas, TX ",32.874057,-96.769215,1.5,2.8,3.5
+39,75234-aa1,AT&T Authorized Retailer,75234,"3504 Belt Line Rd, Farmers Branch, TX",32.952853,-96.859318,,3.6,
+40,75240-a1,AT&T ,75240,"13710 Dallas Parkway, Suite I, Dallas, TX ",32.933242,-96.820538,2.5,3.9,3.3
+41,75252-a1,AT&T ,75252,"17489 Preston Rd, Suite A, Dallas, TX ",32.990969,-96.801856,2.5,2.5,3
+42,75254-a1,AT&T ,75254,"5100 Beltline Road, Ste. 1032, Addison, TX",32.953685,-96.821254,3,3.4,3.4
+43,76051-a1,AT&T ,76051,"1401 William D Tate Ave Ste. 600, Grapevine, TX",32.925818,-97.087507,2.5,2.9,3.4
+44,76092-a1,AT&T ,76092,"1530 E Southlake Blvd., Southlake, TX",32.941309,-97.127988,3,2.6,2.8
+45,76201-a1,AT&T ,76201,"2520 W University Suite 1180, Denton, TX",33.23026,-97.166151,1,2.7,2.6
+46,76205-a1,AT&T ,76205,"2304 S Loop 288, Denton, TX",33.187766,-97.107117,1.5,3.6,3.7
