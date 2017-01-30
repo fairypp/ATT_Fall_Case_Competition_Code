@@ -1,4 +1,4 @@
-## ATT_Fall_Case_Competition_Code
+## ATT Fall Case Competition Code
 This folder includes codes and part of sample data used for Big Data AT&T Fall Case Competition.
 
 Our codes are mainly written by R and Python.
