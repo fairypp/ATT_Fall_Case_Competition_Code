@@ -1,5 +1,11 @@
 ## ATT Fall Case Competition Code
 This folder includes codes and part of sample data used for Big Data AT&T Fall Case Competition.
+We win Top5.
+## Summary:
+1. Led AT&T store performance analysis to extract customer service insights by establishing analysis strategies.  
+2. Generated 15 customer concerns by clustering 50,000+ reviews from 4 social media platforms with LDA.  
+3. Predicted customer tweet sentiments by employing SVM and document term matrix (TF-IDF is the weight factor).  
+4. Designed a service ranking algorithm and visualized findings by utilizing 10 Tableau interactive stories to provide Customer Relationship Management recommendations.  
 
 Our codes are mainly written by R and Python.
 
