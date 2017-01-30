@@ -35,7 +35,7 @@ There are 7 sample data files included under the folder “Sample_Data”:
 
 We use Python to (1) fetch Google reviews by Google Search APIs; (2) fetch part of Yelp reviews by Yelp APIs.  
 
-Due to Yelp APIs’ limitation, we finally use a chrome tools called Web Scraper to fetch all Yelp reviews from webpages. We also physically fetch all reviews from Facebook due to its API limitation.
+Due to Yelp APIs’ limitation, we finally use a chrome tools called Web Scraper to fetch all Yelp reviews from webpages. We also physically fetch all reviews from Facebook due to its API limitation. For this part, you can use any other web scraping tools or codes to finish the data collection job. We just don't have enough time to write or find a more powerful one to collect data.
 
 The input file paths are directly written in the codes. If you want to test those codes, you need to change input file paths from codes by correct paths.
 
