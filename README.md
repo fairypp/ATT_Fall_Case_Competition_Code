@@ -6,6 +6,8 @@ Goal of customer insights project is to identify top customer concerns ,analyze 
 1. Top customer concern by social media feeds (LDA)
 2. Customer tweet sentiment analysis and prediction (SVM , TFIDF)
 3. Custom ranking algorithm to measure the overall service quarlity of retailer stores in Dallas area
+![alt text][logo]
+[logo]:https://github.com/fairypp/Air_France_Internet_Marketing/blob/master/air_france.PNG
 
 We use R to  
 (1) fetch twitter history and real-time streaming data;  
