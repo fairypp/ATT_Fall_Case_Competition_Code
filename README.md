@@ -14,7 +14,7 @@ Goal of customer insights project is to identify top customer concerns, analyze 
 ### Project Structure:  
 
 /-------R Code   
- |     |--------Sample Data  
+ |⋅⋅⋅⋅⋅|--------Sample Data  
  |     |--------ATT_LDA.R  
  |     |--------Corr.R  
  |     |--------Preprocess.R  
