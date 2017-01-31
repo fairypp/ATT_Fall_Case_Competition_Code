@@ -43,11 +43,11 @@ File “mystopwords.txt” is used for text preprocessing.
 File "top 100 populated cities in US.txt" is used to store geographic information of US top 100 populated cities for fetch_google.py.  
 
 ### Sample Data Notes:
-1)	ATT_dallas_rank_YGF.csv &ensp;: all overall ranks of AT&T retail stores in Dallas area from 3 main social media platforms (Yelp, Google and Facebook), and other information like zipcode, store address, lat and long.    
-2)	ATT_dallas_reviews.csv &ensp;&ensp;: sample review data of AT&T retail stores in Dallas area got from Yelp, Google and Facebook.  
-3)	ATT_US_reviews.csv &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: sample review data of AT&T retail stores all over US got from Google reviews.  
-4)	Demographic.csv &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: the demographic information we collected for Dallas area.  
-5)	realtime_twitter.csv &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: some sample Twitter streaming data.  
+1)	ATT_dallas_rank_YGF.csv &ensp;&ensp;&ensp;&ensp;: all overall ranks of AT&T retail stores in Dallas area from 3 main social media platforms (Yelp, Google and Facebook), and other information like zipcode, store address, lat and long.    
+2)	ATT_dallas_reviews.csv &ensp;&ensp;&ensp;&ensp;&ensp;: sample review data of AT&T retail stores in Dallas area got from Yelp, Google and Facebook.  
+3)	ATT_US_reviews.csv &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: sample review data of AT&T retail stores all over US got from Google reviews.  
+4)	Demographic.csv &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: the demographic information we collected for Dallas area.  
+5)	realtime_twitter.csv &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: some sample Twitter streaming data.  
 6)	TMobileHelp_twitter_users.csv : some sample Twitter data related users.  
 7)	LDA 15 TopicsToTerms.xlsx &ensp;&ensp;&ensp;: LDA-extract customer service topics.  
 
