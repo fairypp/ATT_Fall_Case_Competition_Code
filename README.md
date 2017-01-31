@@ -14,20 +14,20 @@ Goal of customer insights project is to identify top customer concerns, analyze 
 ### Project Structure:  
 
 /-------R Code   
- |&nbsp;&nbsp;|--------Sample Data  
- |     |--------ATT_LDA.R  
- |     |--------Corr.R  
- |     |--------Preprocess.R  
- |     |--------Sentiment.R  
- |     |--------TwitterPublicData.R  
- |     |--------TwitterStreamData.R  
- |     |--------mystopwords.txt  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------Sample Data  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------ATT_LDA.R  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------Corr.R  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------Preprocess.R  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------Sentiment.R  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------TwitterPublicData.R  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------TwitterStreamData.R  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------mystopwords.txt  
  |  
  |-----Python Code  
- |     |--------ReadMeForPython.docx  
- |     |--------fetch_google.py  
- |     |--------fetch_yelp.py  
- |     |--------top 100 populated cities in US.txt  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------ReadMeForPython.docx  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------fetch_google.py  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------fetch_yelp.py  
+ |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--------top 100 populated cities in US.txt  
 
 ### Code Notes : 
 1) ATT_LDA.R           : extract customer service topics by LDA method.  
