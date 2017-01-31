@@ -1,13 +1,11 @@
 ## ATT Fall Case Competition Code
-This folder includes codes and part of sample data used for Big Data AT&T Fall Case Competition.
-We win Top5.
-## Summary:
-1. Led AT&T store performance analysis to extract customer service insights by establishing analysis strategies.  
-2. Generated 15 customer concerns by clustering 50,000+ reviews from 4 social media platforms with LDA.  
-3. Predicted customer tweet sentiments by employing SVM and document term matrix (TF-IDF is the weight factor).  
-4. Designed a service ranking algorithm and visualized findings by utilizing 10 Tableau interactive stories to provide Customer Relationship Management recommendations.  
+This folder includes codes and part of sample data used for Big Data AT&T Fall Case Competition. This project is ranked Top 5 in this competetion. 
 
-Our codes are mainly written by R and Python.
+Goal of customer insights project is to identify top customer concerns ,analyze customer sentiment related to ATT and provid recommendation strategies for CRM system. This project cosumes documents from various social media sources and apply various natural language processing techniques and models. The programming languages in this project are R and Python. 
+## Summary:
+1. Top customer concern by social media feeds (LDA)
+2. Customer tweet sentiment analysis and prediction (SVM , TFIDF)
+3. Custom ranking algorithm to measure the overall service quarlity of retailer stores in Dallas area
 
 We use R to  
 (1) fetch twitter history and real-time streaming data;  
