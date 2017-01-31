@@ -11,7 +11,7 @@ Goal of customer insights project is to identify top customer concerns, analyze 
 ![alt text][logo]
 [logo]:https://github.com/fairypp/ATT_Fall_Case_Competition_Code/blob/master/overall_rank.png
 
-### Project Structure 
+### Project Structure:  
 
 /-------R Code   
 | |--------Sample Data  
