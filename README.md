@@ -3,7 +3,7 @@ This folder includes codes and part of sample data used for Big Data AT&T Fall C
 
 Goal of customer insights project is to identify top customer concerns, analyze customer sentiment related to ATT and provide recommendation strategies for CRM system. This project consumes documents from various social media sources and applies various natural language processing techniques and models. The programming languages in this project are R and Python.
 
-## Summary:
+### Summary:
 1. Top customer concern by social media feeds (LDA).
 2. Customer tweet sentiment analysis and prediction (SVM , TFIDF).
 3. Custom ranking algorithm to measure the overall service quarlity of retailer stores in Dallas area.
@@ -11,7 +11,7 @@ Goal of customer insights project is to identify top customer concerns, analyze 
 ![alt text][logo]
 [logo]:https://github.com/fairypp/ATT_Fall_Case_Competition_Code/blob/master/overall_rank.png
 
-## Project Structure 
+### Project Structure 
 
 /-------R Code   
 | |--------Sample Data  
@@ -29,7 +29,7 @@ Goal of customer insights project is to identify top customer concerns, analyze 
 | |--------fetch_yelp.py  
 | |--------top 100 populated cities in US.txt  
 
-### Code notes : 
+### Code Notes : 
 1) ATT_LDA.R : extract customer service topics by LDA method.  
 2) Corr.R : compute the correlation matrix of different demographics factors.  
 3) Preprocess.R	: normalize all collected review ratings and prepare the training corpus for sentiment prediction.  
@@ -52,7 +52,7 @@ File “mystopwords.txt” is used for text preprocessing.
 7)	LDA 15 TopicsToTerms.xlsx : LDA-extract customer service topics.  
 
 
-### Limitations and known issues:
+### Limitations and Known Issues:
 Due to Yelp APIs’ limitation, chrome tools is chosen to called Web Scraper to fetch all Yelp reviews from webpages. For the same reason, all reviews are fetched from Facebook.   
 Due to time limitation of competetion, custom implementation for web scraping was not developed.   
 
