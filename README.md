@@ -30,16 +30,16 @@ Goal of customer insights project is to identify top customer concerns, analyze 
 &ensp;|&ensp;&ensp;&ensp;&ensp;|--------top 100 populated cities in US.txt  
 
 ### Code Notes : 
-1) ATT_LDA.R&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: extract customer service topics by LDA method.  
-2) Corr.R&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: compute the correlation matrix of different demographics factors.  
-3) Preprocess.R	       : normalize all collected review ratings and prepare the training corpus for sentiment prediction.  
-4) Sentiment.R         : predict sentiment for tweets by Max Entropy and SVM.  
+1) ATT_LDA.R &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: extract customer service topics by LDA method.   
+2) Corr.R &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: compute the correlation matrix of different demographics factors.  
+3) Preprocess.R &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: normalize all collected review ratings and prepare the training corpus for sentiment prediction.  
+4) Sentiment.R &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: predict sentiment for tweets by Max Entropy and SVM.  
 5) TwitterPublicData.R : fetch Twitter history data by Twitter APIs.  
 6) TwitterStreamData.R : fetch Twitter real-time streaming data by Twitter APIs.  
 File “mystopwords.txt” is used for text preprocessing.  
 
-7) fetch_google.py     : fetch Google reviews by Google Search APIs.  
-8) fetch_yelp.py       : fetch part of Yelp reviews by Yelp APIs.  
+7) fetch_google.py &ensp;&ensp;&ensp;&ensp;: fetch Google reviews by Google Search APIs.  
+8) fetch_yelp.py &ensp;&ensp;&ensp;&ensp;&ensp;: fetch part of Yelp reviews by Yelp APIs.  
 File "top 100 populated cities in US.txt" is used to store geographic information of US top 100 populated cities for fetch_google.py.  
 
 ### Sample Data Notes:
