@@ -24,23 +24,23 @@ Goal of customer insights project is to identify top customer concerns, analyze 
 | |--------mystopwords.txt  
 |  
 |-----Python Code  
-| |--------ReadMeForPython.docx
-| |--------fetch_google.py
-| |--------fetch_yelp.py
-| |--------top 100 populated cities in US.txt
+| |--------ReadMeForPython.docx  
+| |--------fetch_google.py  
+| |--------fetch_yelp.py  
+| |--------top 100 populated cities in US.txt  
 
 ### Code notes : 
-1) ATT_LDA.R : extract customer service topics by LDA method.
-2) Corr.R : compute the correlation matrix of different demographics factors.
-3) Preprocess.R	: normalize all collected review ratings and prepare the training corpus for sentiment prediction.
-4) Sentiment.R : predict sentiment for tweets by Max Entropy and SVM.
-5) TwitterPublicData.R : fetch Twitter history data by Twitter APIs.
-6) TwitterStreamData.R : fetch Twitter real-time streaming data by Twitter APIs.
+1) ATT_LDA.R : extract customer service topics by LDA method.  
+2) Corr.R : compute the correlation matrix of different demographics factors.  
+3) Preprocess.R	: normalize all collected review ratings and prepare the training corpus for sentiment prediction.  
+4) Sentiment.R : predict sentiment for tweets by Max Entropy and SVM.  
+5) TwitterPublicData.R : fetch Twitter history data by Twitter APIs.  
+6) TwitterStreamData.R : fetch Twitter real-time streaming data by Twitter APIs.  
 
-File “mystopwords.txt” is used for text preprocessing.
-7) fetch_google.py : fetch Google reviews by Google Search APIs. 
-8) fetch_yelp.py : fetch part of Yelp reviews by Yelp APIs.
-9) top 100 populated cities in US.txt: Geographic information for US top 100 populated cities used in fetch_google.py.
+File “mystopwords.txt” is used for text preprocessing.  
+7) fetch_google.py : fetch Google reviews by Google Search APIs.  
+8) fetch_yelp.py : fetch part of Yelp reviews by Yelp APIs.  
+9) top 100 populated cities in US.txt: Geographic information for US top 100 populated cities used in fetch_google.py.  
 
 ### Sample Data Notes:
 1)	ATT_dallas_rank_YGF.csv : all overall ranks of AT&T retail stores in Dallas area from 3 main social media platforms (Yelp, Google and Facebook), and other information like zipcode, store address, lat and long.    
