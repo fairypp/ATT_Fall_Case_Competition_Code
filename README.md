@@ -23,6 +23,8 @@ Goal of customer insights project is to identify top customer concerns ,analyze 
 | |--------mystopwords.txt  
 |  
 |-----Python Code  
+| |--------ReadMeForPython.docx
+| |--------
 
 We use R to  
 (1) fetch twitter history and real-time streaming data;  
