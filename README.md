@@ -6,8 +6,23 @@ Goal of customer insights project is to identify top customer concerns ,analyze 
 1. Top customer concern by social media feeds (LDA)
 2. Customer tweet sentiment analysis and prediction (SVM , TFIDF)
 3. Custom ranking algorithm to measure the overall service quarlity of retailer stores in Dallas area
+4. Provide visualized presentation of such findings in CRM recommendation engin on top of Tableu platform.
 ![alt text][logo]
-[logo]:https://github.com/fairypp/Air_France_Internet_Marketing/blob/master/air_france.PNG
+[logo]:https://github.com/fairypp/ATT_Fall_Case_Competition_Code/blob/master/overall_rank.png
+
+## Project Structure 
+
+/-------R Code   
+| |--------Sample Data  
+| |--------ATT_LDA.R  
+| |--------Corr.R  
+| |--------Preprocess.R  
+| |--------Sentiment.R  
+| |--------TwitterPublicData.R  
+| |--------TwitterStreamData.R  
+| |--------mystopwords.txt  
+|  
+|-----Python Code  
 
 We use R to  
 (1) fetch twitter history and real-time streaming data;  
