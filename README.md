@@ -30,7 +30,7 @@ Goal of customer insights project is to identify top customer concerns, analyze 
 &ensp;|&ensp;&ensp;&ensp;&ensp;|--------top 100 populated cities in US.txt  
 
 ### Code Notes : 
-1) ATT_LDA.R           : extract customer service topics by LDA method.  
+1) ATT_LDA.R &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: extract customer service topics by LDA method.  
 2) Corr.R              : compute the correlation matrix of different demographics factors.  
 3) Preprocess.R	       : normalize all collected review ratings and prepare the training corpus for sentiment prediction.  
 4) Sentiment.R         : predict sentiment for tweets by Max Entropy and SVM.  
