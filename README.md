@@ -4,10 +4,11 @@ This folder includes codes and part of sample data used for Big Data AT&T Fall C
 Goal of customer insights project is to identify top customer concerns, analyze customer sentiment related to ATT and provide recommendation strategies for CRM system. This project consumes documents from various social media sources and applies various natural language processing techniques and models. The programming languages in this project are R and Python.
 
 ### Summary:
-1. Top customer concern by social media feeds (LDA).
-2. Customer tweet sentiment analysis and prediction (SVM , TFIDF).
-3. Custom ranking algorithm to measure the overall service quality of retailer stores in Dallas area.
-4. Provide visualized presentation of such findings in CRM recommendation engine on top of Tableau platform.
+1. Collect and preprocess 50000+ reviews and tweets by APIs and Python.
+2. Top customer concern by social media feeds (LDA).
+3. Customer tweet sentiment analysis and prediction (SVM , TFIDF).
+4. Custom ranking algorithm to measure the overall service quality of retailer stores in Dallas area.
+5. Provide visualized presentation of such findings in CRM recommendation engine on top of Tableau platform.
 ![alt text][logo]
 [logo]:https://github.com/fairypp/ATT_Fall_Case_Competition_Code/blob/master/overall_rank.png
 
